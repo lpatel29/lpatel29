@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lpatel29
-- 👀 I’m interested in writing codes on VLSI.
-- 🌱 I’m currently learning VLSI, verilog...
-- 💞️ I’m looking to collaborate on Verilog
+- 👀 I’m interested in writing codes on VLSI, Digital Image Processing.
+- 🌱 I’m currently learning VLSI, verilog,Digital Image Processing ...
+- 💞️ I’m looking to collaborate on Verilog, MATLAB.
 - 📫 How to reach me linuxpatel123@gmail.com
 
 <!---
