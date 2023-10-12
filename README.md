@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lpatel29
-- 👀 I’m interested in writing codes on VLSI, Digital Image Processing.
-- 🌱 I’m currently learning VLSI, verilog,Digital Image Processing ...
-- 💞️ I’m looking to collaborate on Verilog, MATLAB.
+- 👀 I’m interested in writing codes on Python, OpenCV, ML, DL, GenAI.
+- 🌱 I’m currently learning OpenCV, CNN,GenAI
+- 💞️ I’m looking to collaborate on OpenCV, GenAI.
 - 📫 How to reach me linuxpatel29@gmail.com
 
 <!---
