@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lpatel29
+- 👋 Hi, I’m Linux Patel.
 - 👀 I’m interested in writing codes on GenAI, ML, CNNs, Python, OpenCV, DL.
 - 🌱 I’m currently learning on video-based chatbot qna solutions using generative AI
 - 💞️ I’m looking to collaborate on Gemini, GenAI.
